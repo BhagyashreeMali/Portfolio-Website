@@ -72,7 +72,7 @@ To view or modify this project locally, follow these steps:
 
 1.  **Clone the repo**
     ```sh
-    git clone [https://github.com/bhagyashreemali/Portfolio-Website.git](https://github.com/bhagyashreemali/Portfolio-Website.git)
+    git clone https://github.com/bhagyashreemali/Portfolio-Website
     ```
 2.  **Navigate to the directory**
     ```sh
@@ -96,7 +96,7 @@ To view or modify this project locally, follow these steps:
 **Bhagyashree Mali** *B.E. Artificial Intelligence & Machine Learning Student*
 
 * **Email:** BHAGYASHREEMALI1624@gmail.com
-* **LinkedIn:** [linkedin.com/in/bhagyashreemali](https://www.linkedin.com/in/bhagyashreemali)
+* **LinkedIn:** https://www.linkedin.com/in/bhagyashree-mali/
 * **GitHub:** [github.com/bhagyashreemali](https://github.com/bhagyashreemali)
 
 ---
