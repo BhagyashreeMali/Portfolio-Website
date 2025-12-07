@@ -95,7 +95,7 @@ To get a local copy up and running, follow these simple steps.
 **Bhagyashree Mali** — *B.E. Artificial Intelligence & Machine Learning Student*
 
 * **Email:** [BHAGYASHREEMALI1624@gmail.com](mailto:BHAGYASHREEMALI1624@gmail.com)
-* **LinkedIn:** [linkedin.com/in/bhagyashreemali](https://www.linkedin.com/in/bhagyashreemali)
+* **LinkedIn:**https://www.linkedin.com/in/bhagyashree-mali/
 * **GitHub:** [github.com/bhagyashreemali](https://github.com/bhagyashreemali)
 
 ---
